@@ -36,7 +36,7 @@ avatar: "/img/bitten-peep.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/map.jpg"
+# title-img: "/img/map.jpg"
 
 # --- Background colour/image options --- #
 
@@ -44,7 +44,7 @@ title-img: "/img/map.jpg"
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
 # navbar-col: "orange"
-navbar-img: "/img/map.jpg"
+# navbar-img: "/img/map.jpg"
 # footer-col: "blue"
 footer-img: "/img/map.jpg"
 # page-col: "#FF0000"
