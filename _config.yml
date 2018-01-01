@@ -37,7 +37,7 @@ avatar: "/img/bitten-peep.jpg"
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
-bigimg: "/img/map.jpg"
+bigimg: [{src:"/img/map.jpg", desc: "Rand McNally & Co.'s new twelve inch terrestrial globe, 1891."}]
 
 # --- Background colour/image options --- #
 
