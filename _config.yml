@@ -44,7 +44,8 @@ avatar: "/img/bitten-peep.jpg"
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
 # navbar-col: "orange"
-# navbar-img: "/img/map.jpg"
+navbar-img: "/img/3109105599_04e243787b_o.jpg"
+header-img: "/img/3109105599_04e243787b_o.jpg"
 # footer-col: "blue"
 footer-img: "/img/map.jpg"
 # page-col: "#FF0000"
